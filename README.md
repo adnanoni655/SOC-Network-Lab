@@ -15,8 +15,6 @@ This project demonstrates how network security telemetry can be collected, analy
 - Filebeat
 - Elasticsearch
 - Kibana
-- Wireshark
-- Splunk
 
 ## Architecture
 
